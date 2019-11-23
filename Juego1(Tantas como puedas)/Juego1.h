@@ -1,8 +1,0 @@
-//
-// Created by user on 21/11/2019.
-//
-
-#ifndef PROYECTOFINAL_JUEGO1_H
-#define PROYECTOFINAL_JUEGO1_H
-
-#endif //PROYECTOFINAL_JUEGO1_H
